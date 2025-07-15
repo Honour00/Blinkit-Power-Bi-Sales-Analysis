@@ -13,7 +13,7 @@ This project presents a comprehensive analysis of **Blinkit**, a fast-growing In
 
 - [Project Objectives](https://github.com/Honour00/Blinkit-Power-Bi-Sales-Analysis/blob/main/README.md#project-objectives)
 - [Dataset](https://github.com/Honour00/Blinkit-Power-Bi-Sales-Analysis/blob/main/README.md#dataset)
-- [KPIs Tracked](https://github.com/Honour00/Blinkit-Power-Bi-Sales-Analysis/blob/main/README.md#kpis-tracked))
+- [KPIs Tracked](https://github.com/Honour00/Blinkit-Power-Bi-Sales-Analysis/blob/main/README.md#kpis-tracked)
 - [Dashboard Features](https://github.com/Honour00/Blinkit-Power-Bi-Sales-Analysis/blob/main/README.md#dashboard-features)
 - [Key Insights](https://github.com/Honour00/Blinkit-Power-Bi-Sales-Analysis/blob/main/README.md#key-insights)
 - [Recommendations](https://github.com/Honour00/Blinkit-Power-Bi-Sales-Analysis/blob/main/README.md#recommendations)
